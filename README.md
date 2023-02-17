@@ -1,3 +1,1 @@
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ahtishamkhan5678&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
+![logoG](https://user-images.githubusercontent.com/115864823/219666245-792f159b-da74-48e7-8aee-7563990d14c1.png)
